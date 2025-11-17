@@ -1,4 +1,4 @@
-package com.eleme.pl5;
+package com.eleme.pl5.controller;
 
 import lombok.Data;
 
