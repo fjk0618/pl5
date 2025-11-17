@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.eleme.pl5;
 
 import lombok.Data;
 

@@ -1,6 +1,6 @@
 package features;
 
-import com.example.demo.App;
+import com.eleme.pl5.App;
 
 import org.junit.jupiter.api.Test;
 
